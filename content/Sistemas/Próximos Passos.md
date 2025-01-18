@@ -1,11 +1,6 @@
-P1
-- [x] Adicionar CID nas principais
-- [ ] Fazer Modelo Consulta ITU
-- [x] Página de colecistite, colelitiase, colangite etc. quando internar 
-- [ ] Fazer compatibilização com SUS
-
-P2
+- [ ] Checar imagens faltantes
 - [ ] Página de TVP
+- [ ] Página de Gota
 - [ ] Página Perfuracao esofagica
 - [ ] Página Intertrigo
 - [ ] Página de TB
@@ -13,3 +8,8 @@ P2
 - [ ] Página de balanopostite
 - [ ] Página de farmacodermias
 - [ ] Hemorragia subconjuntival
+- [ ] Pertussis
+- [ ] Herpes oral
+- [ ] Neutropenia febril
+- [ ] Migrânea na gestante
+- [ ] Montar compêndio de dermato básica
