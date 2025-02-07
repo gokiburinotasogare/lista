@@ -1,4 +1,5 @@
 - [ ] Checar imagens faltantes
+- [ ] Página de sutura
 - [ ] Página de TVP
 - [ ] Página de Gota
 - [ ] Página Perfuracao esofagica
