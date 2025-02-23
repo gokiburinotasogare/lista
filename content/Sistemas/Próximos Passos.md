@@ -1,8 +1,9 @@
 - [ ] Checar imagens faltantes
+- [ ] Consulta AVC facilitada
+- [ ] Profilaxias AVC na alta
 - [ ] Página de sutura
 - [ ] Página de TVP
 - [ ] Página de Gota
-- [ ] Página Perfuracao esofagica
 - [ ] Página Intertrigo
 - [ ] Página de TB
 - [ ] Páginas de abdome agudo (obstrutivo, vascular sobretudo)
