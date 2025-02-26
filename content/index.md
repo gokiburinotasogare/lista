@@ -87,10 +87,11 @@ title: Lista de Doenças
 ### **Cirurgia**
 [[Anemia]]
 [[Doença Diverticular Aguda]]
-[[Lombalgia (M545)]]
 [[Hemorragia Digestiva Alta (HDA)]]
 [[Hemorróidas]]
 [[Insuficiência Venosa Crônica]]
+[[Lombalgia (M545)]]
+[[Sutura]]
 [[TCE leve]]
 [[Ureterolitíase (cólica renal)]]
 
