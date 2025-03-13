@@ -1,9 +1,13 @@
+- [ ] Ir página por página fazendo pequenos ajustes da prática
+- [ ] Fazer esquema de atendimento de IC perfil B 
 - [ ] Checar imagens faltantes
 - [ ] Consulta AVC facilitada
+- [ ] Consulta IC
 - [ ] Profilaxias AVC na alta
 - [x] Página de sutura
 - [ ] Correcoes de glicemia
 - [ ] Radiografias
+- [ ] Página de escroto agudo
 - [ ] Página de TVP
 - [ ] Página de Gota
 - [ ] Página Intertrigo

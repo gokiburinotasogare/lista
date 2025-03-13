@@ -99,7 +99,6 @@ title: Lista de Doenças
 [[Candidíase Vaginal]]
 [[Contracepção de Emergência]]
 
-
 ### **Modelos**
 - [[Atestado]]
 - [[Exame Físico]]
