@@ -80,7 +80,7 @@ title: Lista de Doenças
 [[Síndrome Neuroléptica maligna]]
 [[Tínea]]
 [[Tricomoníase]]
-[[Urticária]]
+[[Urticária e angioedema]]
 [[Varicela (Catapora)]]
 [[Verminoses]]
 

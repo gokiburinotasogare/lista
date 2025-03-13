@@ -12,4 +12,22 @@ Tomar 01 comprimido, via oral, 1 vez ao dia, até resolução dos sintomas
 ><br>
 >-  Urticária com >6 semanas deve ser investigada por dermato, e pode ter alguma relação com tireoide.
 
+Modelo Consulta genérica
+```
+
+```
+### Angioedema
+- Se o quadro for de angioedema, ou seja, não cursar com sinais de mediação por histamina, tratar caso haja **acometimento de face** ou **vias aéreas**
+
+
+Primeira escolha (chance quase nula de ter disponível):
+```
+Inibidor de C1 ou Icatibanto
+```
+
+
+Alternativa (mais provável):
+```
+Plasma fresco congelado, 2 UI EV agora
+```
 
