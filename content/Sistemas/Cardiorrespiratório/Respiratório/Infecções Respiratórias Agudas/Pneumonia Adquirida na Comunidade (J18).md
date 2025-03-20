@@ -59,7 +59,8 @@ Aplicar PSI/Port
 
 | Paciente com modificadores de risco bacteriano$^1$ | Posologia                    |
 | -------------------------------------------------- | ---------------------------- |
-| Amoxicilina/clavulanato                            | 875mg VO 12/12h por 5-7 dias |
+| Amoxicilina/clavulanato**                          | 875mg VO 12/12h por 5-7 dias |
 | Levofloxacino                                      | 750mg/dia                    |
 
 $^1$ DPOC, IC, Hepatopatia crônica, doença renal, etilismo, neoplasia maligna, asplenia
+** No caso de amox-clav para pacientes com comorbidades, considerar adicionar também azitromicina (macrolídeo), em terapia dual. Levo pode ser em monoterapia

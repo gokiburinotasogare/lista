@@ -1,6 +1,7 @@
 - [ ] Ir página por página fazendo pequenos ajustes da prática
 - [ ] Fazer esquema de atendimento de IC perfil B 
 - [ ] Consulta urticária genérica
+- [ ] Compêndio ISTs
 - [ ] Checar imagens faltantes
 - [ ] Consulta AVC facilitada
 - [ ] Consulta IC
