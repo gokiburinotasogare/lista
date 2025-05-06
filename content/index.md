@@ -6,9 +6,9 @@ title: Lista de Doenças
 - [[Cefaleias Agudas (R51)]]
 - [[Conjuntivite (H10)]]
 - [[Constipação (K590)]]
-- [[Crise de Ansiedade (F411)]] **
+- [[Crise de Ansiedade (F411)]]
 - [[Dengue (A90)]]
-- [[Diarreia Aguda (A09)]]
+- [[Diarreia Aguda (A09)]] **
 - [[Dispepsia (K30)]]
 - [[Dor Abdominal]]
 - [[Dor Torácica]]

@@ -25,21 +25,21 @@ Quando acabar a medicação, ta liberado
 ```
 USO ORAL
 
-1) Dipirona 1g-----------------------------------------------------------------------------------------------------  
+1) Dipirona 1g
 Tomar 1cp, via oral, até de 6 em 6h, se dor  
-  
-2) Escopolamina 10 mg ----------------------------------------------------------------------------------------  
+
+2) Escopolamina 10 mg  
 Tomar 1cp, via oral, de 8 em 8h em caso de dor abdominal refratária à dipirona.  
   
-3) Ondansetrona 4 mg -----------------------------------------------------------------------------------------  
+3) Ondansetrona 4 mg  
 Tomar 1cp, via oral, de 8 em 8h em caso de náuseas ou vômitos  
   
-4) Loperamida 2mg ---------------------------------------------------------------------------------------------  
-Tomar um comprimido, via oral, após cada episódio de diarreia aquosa. tomar no máximo oito comprimidos por dia.  
-Suspender a medicação em caso de febre ou fezes com muco/pus/sangue. Nesse caso,procurar imediatamente o pronto-socorro.  
-  
-5) Soro de reidratação oral --------------------------------------------------------------------- 05 sachês  
+4) Solução de reidratação oral 
 Diluir um sachê conforme orientações do fabricante e tomar 300 mL após cada episódio de vômito ou diarreia. Além disso, manter-se hidratado durante o dia através da ingesta de água, sucos e chás.
+
+5) Loperamida 2mg 
+Tomar um comprimido, via oral, após cada episódio de diarreia aquosa. tomar no máximo seis comprimidos por dia.  
+Suspender a medicação em caso de febre ou fezes com muco/pus/sangue. Nesse caso,procurar imediatamente o pronto-socorro.
 ```
 
 #### Antibioticoterapia empírica
@@ -72,13 +72,8 @@ Tomar 1cp, via oral, de 8 em 8h, por 10 dias
 ### Modelo Consulta
 masculino
 ```
-QD: diarreia há X dias
-
 HMA: Paciente refere X evacuações líquidas há X dias. Nega presença de sangue ou pus nas fezes, êmese, tonturas, dor intensa ou alterações urinárias.
-
 AP:
-
-MUC:
 
 Exame físico:
 - Controles: T ºC, SatO2 %, FR irpm, FC bpm, Tempo de enchimento capilar <3 segundos
@@ -90,22 +85,17 @@ Exame físico:
 Conduta:
 - Prescrevo sintomáticos e hidratação via oral
 - Oriento sinais de alarme como persistencia de sintomas, febre alta refratária a medicação, tontura, desmaios, perda de peso e retorno ao pronto atendimento imediatamente se manifestar algum deles
-- Alta do Pronto Atendimento
+- Paciente compreende e concorda com conduta
+- Alta após medicação
 ```
 
 feminino
 ```
-QD: diarreia há X dias
-
 HMA: Paciente refere X evacuações líquidas há X dias. Nega presença de sangue ou pus nas fezes, êmese, tonturas, dor intensa ou alterações urinárias.
-
 AP:
 
-MUC:
-
 Exame físico:
-- Controles: T ºC, SatO2 %, FR irpm, FC bpm, Tempo de enchimento capilar <3 segundos
-- Geral: Bom estado geral. Corada, desidratada +/4+, Acianótica, Anictérica e Afebril ao toque
+- Geral: Bom estado geral. Corada, desidratada +/4+, Acianótica, Anictérica e Afebril ao toque Tempo de enchimento capilar <3 segundos
 - Cardiovascular: Bulhas rítimicas normofonéticas em 2 tempos, sem sopros. Pulsos cheios e simétricos. 
 - Abdominal: Plano, Flácido, Indolor à palpação, sem massas ou visceromegalias palpáveis, sem sinais de peritonismo. Timpânico, Ruídos hidroaéreos presentes.
 - Extremidades: Sem edema
@@ -113,5 +103,6 @@ Exame físico:
 Conduta:
 - Prescrevo sintomáticos e hidratação via oral
 - Oriento sinais de alarme como persistencia de sintomas, febre alta refratária a medicação, tontura, desmaios, perda de peso e retorno ao pronto atendimento imediatamente se manifestar algum deles
-- Alta do Pronto Atendimento
+- Paciente compreende e concorda com conduta
+- Alta após medicação
 ```
