@@ -28,7 +28,7 @@ Tomar 1cp, via ora, de 12 em 12h, se dor ou incômodo ao urinar. Este medicament
 Orientações  
 - Aumentar ingesta hídrica (mínimo de 2 litros por dia)  
 - Urinar sempre que tiver vontade e após relações sexuais  
-- Evitar uso de duchas vaginais e cuidado com higiene anal e vaginal
+- Evitar uso de duchas e cuidado com higiene íntima
 ```
 
 Se de repetição

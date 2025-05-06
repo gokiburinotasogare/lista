@@ -63,13 +63,9 @@ Se crise muito intensa
 
 Masculino
 ```
-QD:
-
-HMA: Nega tonturas, diplopia, fraqueza, vômitos, sonolência.
+HMA: Paciente refere cefaleia pulsátil, de forte intensidade, que piora com luz, barulho e esforço físico, há 1 dia. Relata diversos episódios prévios. Nega tonturas, diplopia, fraqueza, vômitos, sonolência.
 
 AP:
-
-MUC:
 
 Exame Físico:
 - Geral: Regular estado geral. Corado, Hidratado, Acianótico, Anictérico e Afebril ao toque
@@ -78,19 +74,16 @@ Exame Físico:
 Conduta:
 - Paciente com quadro enxaquecoso já de recorrência conhecida, sem sinais de alarme e sem sintomas sistêmicos ou neurológicos.
 - Realizo analgesia com sintomaticos e corticoide
-- Alta do PA por melhora do quadro
+- Paciente compreende e concorda com conduta
+- Alta do PA após melhora do quadro
 ```
 
 
 Feminino
 ```
-QD:
-
-HMA: Nega tonturas, diplopia, fraqueza, vômitos, sonolência.
+HMA: Paciente refere cefaleia pulsátil, de forte intensidade, que piora com luz, barulho e esforço físico, há 1 dia. Relata diversos episódios prévios. Nega tonturas, diplopia, fraqueza, vômitos, sonolência. Nega tonturas, diplopia, fraqueza, vômitos, sonolência.
 
 AP:
-
-MUC:
 
 Exame Físico:
 - Geral: Regular estado geral. Corada, Hidratada, Acianótica, Anictérica e Afebril ao toque
@@ -99,7 +92,8 @@ Exame Físico:
 Conduta:
 - Paciente com quadro enxaquecoso já de recorrência conhecida, sem sinais de alarme e sem sintomas sistêmicos ou neurológicos.
 - Realizo analgesia com sintomaticos e corticoide
-- Alta do PA por melhora do quadro
+- Paciente compreende e concorda com conduta
+- Alta do PA após melhora do quadro
 ```
 ### Salvas
 #### Critérios diagnósticos
