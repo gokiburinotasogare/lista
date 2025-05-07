@@ -76,8 +76,7 @@ HMA: Paciente refere X evacuações líquidas há X dias. Nega presença de sang
 AP:
 
 Exame físico:
-- Controles: T ºC, SatO2 %, FR irpm, FC bpm, Tempo de enchimento capilar <3 segundos
-- Geral: Bom estado geral. Corado, desidratado +/4+, Acianótico, Anictérico e Afebril ao toque
+- Geral: Bom estado geral. Corado, desidratado +/4+, Acianótico, Anictérico e Afebril ao toque, Tempo de enchimento capilar <3 segundos
 - Cardiovascular: Bulhas rítimicas normofonéticas em 2 tempos, sem sopros. Pulsos cheios e simétricos. 
 - Abdominal: Plano, Flácido, Indolor à palpação, sem massas ou visceromegalias palpáveis, sem sinais de peritonismo. Timpânico, Ruídos hidroaéreos presentes.
 - Extremidades: Sem edema

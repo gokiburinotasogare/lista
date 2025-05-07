@@ -65,7 +65,6 @@ Feminino:
 QD: Dor ao urinar há X dias.
 HMA: Paciente refere disúria e polaciúria há x dias. Nega febre, nega corrimento vaginal, nega prurido vaginal e dispareunia.
 AP:
-MUC:
 
 Exame físico:
 Bom estado geral, corada, hidratada, acianótica, anictérica, afebril, eupneica em ar ambiente
@@ -76,6 +75,7 @@ Conduta:
 - Prescrevo antibioticoterapia empírica por se tratar de cistite simples em paciente sem fatores de risco
 - Prescrevo pirydium para analgesia de vias urinárias
 - Oriento retorno imediato caso apresente persistencia dos sintomas após o término do tratamento proposto, piora deles a qualquer momento, febre, sangramentos, corrimento vaginal, confusão mental, bem como aparecimento de sintomas novos nos próximos dias.
+- Paciente compreende e concorda com conduta
 - Alta do pronto atendimento
 ```
 

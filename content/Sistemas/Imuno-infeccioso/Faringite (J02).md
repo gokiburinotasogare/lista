@@ -47,14 +47,10 @@ masculino
 QD: Dor de garganta há X dia.
 
 HMA: Paciente refere odinofagia de início há . Conta que os sintomas vieram associados a sensação de mal-estar e tosse não expectorativa. Nega febre, nega alterações de fala, dispneia, disfagia ou percepção de abaulamentos em região de orofaringe/cervical.
-
 AP:
 
-MUC:
-
 Exame físico:
-- Controles: T ºC, SatO2 %, FR irpm, FC bpm, TEC <3s
-- Geral: Bom estado geral. Corado, Hidratado, Acianótico, Anictérico e Afebril ao toque.
+- Geral: Bom estado geral. Corado, Hidratado, Acianótico, Anictérico e Afebril ao toque, TEC <3s
 - Cabeça e pescoço: Sem linfonodomegalias palpáveis.
 - Orofaringe: Hiperemiada, sem abaulamentos ou exsudatos amigdalianos.
 - Aparelho Respiratório: Eupneico em ar ambiente, Murmúrios vesiculares presentes bilateralmente, sem ruídos adventícios.
@@ -62,6 +58,8 @@ Exame físico:
 Conduta:
 - Prescrevo sintomaticos para uso domiciliar
 - Oriento sinais de alarme como disfagia, dispneia, persistencia de sintomas ou piora do quadro, febre acima de 38ºC e retorno ao pronto atendimento imediatamente caso apresente algum deles.
+- Paciente compreende e concorda com conduta
+- Alta após medicação
 
 ```
 
@@ -70,14 +68,11 @@ feminino
 QD: Dor de garganta há X dia.
 
 HMA: Paciente refere odinofagia de início há . Conta que os sintomas vieram associados a sensação de mal-estar e tosse não expectorativa. Nega febre, nega alterações de fala, dispneia, disfagia ou percepção de abaulamentos em região de orofaringe/cervical.
-
 AP:
 
-MUC:
 
 Exame físico:
-- Controles: T ºC, SatO2 %, FR irpm, FC bpm, TEC <3s
-- Geral: Bom estado geral. Corada, Hidratada, Acianótica, Anictérica e Afebril ao toque.
+- Geral: Bom estado geral. Corada, Hidratada, Acianótica, Anictérica e Afebril ao toquel, TEC <3s
 - Cabeça e pescoço: Sem linfonodomegalias palpáveis.
 - Orofaringe: Hiperemiada, sem abaulamentos ou exsudatos amigdalianos.
 - Aparelho Respiratório: Eupneico em ar ambiente, Murmúrios vesiculares presentes bilateralmente, sem ruídos adventícios.
@@ -85,5 +80,7 @@ Exame físico:
 Conduta:
 - Prescrevo sintomaticos para uso domiciliar
 - Oriento sinais de alarme como disfagia, dispneia, persistencia de sintomas ou piora do quadro, febre acima de 38ºC e retorno ao pronto atendimento imediatamente caso apresente algum deles.
+- Paciente compreende e concorda com conduta
+- Alta após medicação
 
 ```

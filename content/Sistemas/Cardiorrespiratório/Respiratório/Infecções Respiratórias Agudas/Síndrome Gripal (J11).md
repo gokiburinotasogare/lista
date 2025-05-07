@@ -59,18 +59,17 @@ HMA: Paciente refere quadro de mal-estar difuso, febre aferida de ºC, e tosse e
 
 AP:
 
-MUC:
-
 Exame físico:
-- Controles: T ºC, SatO2 %, FR irpm, FC bpm, TEC <3s
-- Geral: Bom estado geral. Corado, Hidratado, Acianótico, Anictérico e Afebril ao toque.
+- Geral: Bom estado geral. Corado, Hidratado, Acianótico, Anictérico e Afebril ao toque, TEC <3s
 - Cabeça e pescoço: Sem linfonodomegalias palpáveis.
 - Orofaringe: moderadamente hiperemiada, sem abaulamentos ou exsudatos amigdalianos.
 - Aparelho Respiratório: Eupneico em ar ambiente, Murmúrios vesiculares presentes bilateralmente, discretas crepitações dispersas difusamente pelo tórax.
 
 Conduta:
 - Prescrevo sintomaticos para uso domiciliar
-- Oriento sinais de alarme como dispneia, persistencia de sintomas ou piora do quadro, febre acima de 38ºC, sonolencia acima do normal e retorno ao pronto atendimento imediatamente caso apresente algum deles.
+- Oriento sinais de alarme como dispneia, persistencia de sintomas ou piora do quadro, febre acima de 38ºC, sonolencia acima do normal e retorno ao pronto atendimento imediatamente caso apresente algum deles
+- Paciente compreende e concorda com conduta
+- Alta após medicação
 ```
 
 feminino
@@ -81,18 +80,18 @@ HMA: Paciente refere quadro de mal-estar difuso, febre aferida de ºC, e tosse e
 
 AP:
 
-MUC:
 
 Exame físico:
-- Controles: T ºC, SatO2 %, FR irpm, FC bpm, TEC <3s
-- Geral: Bom estado geral. Corada, Hidratada, Acianótica, Anictérica e Afebril ao toque.
+- Geral: Bom estado geral. Corada, Hidratada, Acianótica, Anictérica e Afebril ao toque, TEC <3s
 - Cabeça e pescoço: Sem linfonodomegalias palpáveis.
 - Orofaringe: moderadamente hiperemiada, sem abaulamentos ou exsudatos amigdalianos.
 - Aparelho Respiratório: Eupneica em ar ambiente, Murmúrios vesiculares presentes bilateralmente, discretas crepitações dispersas difusamente pelo tórax.
 
 Conduta:
 - Prescrevo sintomaticos para uso domiciliar
-- Oriento sinais de alarme como dispneia, persistencia de sintomas ou piora do quadro, febre acima de 38ºC, sonolencia acima do normal e retorno ao pronto atendimento imediatamente caso apresente algum deles.
+- Oriento sinais de alarme como dispneia, persistencia de sintomas ou piora do quadro, febre acima de 38ºC, sonolencia acima do normal e retorno ao pronto atendimento imediatamente caso apresente algum deles
+- Paciente compreende e concorda com conduta
+- Alta após medicação
 ```
 
 

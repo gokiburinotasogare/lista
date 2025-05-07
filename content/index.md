@@ -8,7 +8,7 @@ title: Lista de Doenças
 - [[Constipação (K590)]]
 - [[Crise de Ansiedade (F411)]]
 - [[Dengue (A90)]]
-- [[Diarreia Aguda (A09)]] **
+- [[Diarreia Aguda (A09)]]
 - [[Dispepsia (K30)]]
 - [[Dor Abdominal]]
 - [[Dor Torácica]]

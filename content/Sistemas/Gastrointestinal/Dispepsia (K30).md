@@ -39,8 +39,6 @@ HMA: Paciente refere dor em queimação em região epigástrica de leve/moderada
 
 AP:
 
-MUC:
-
 Exame físico:
 - Geral: Bom estado geral. Corado, hidratado, Acianótico, Anictérico e Afebril ao toque
 - Cardiovascular: Bulhas rítimicas normofonéticas em 2 tempos, sem sopros. Pulsos cheios e simétricos. TEC <3s
@@ -51,6 +49,7 @@ Conduta:
 - Prescrevo sintomáticos e oriento medidas comportamentais para manejo dos sintomas
 - Oriento sinais de alarme como persistencia de sintomas ou piora do quadro, perda de peso, sangramento e retorno ao pronto atendimento imediatamente se manifestar algum deles.
 - Oriento buscar seguimento clínico ambulatorial para manejo dos sintomas e morbidades associadas.
+- Paciente compreende e concorda com conduta
 - Alta do Pronto Atendimento
 ```
 
@@ -62,8 +61,6 @@ HMA: Paciente refere dor em queimação em região epigástrica de leve/moderada
 
 AP:
 
-MUC:
-
 Exame físico:
 - Geral: Bom estado geral. Corada, hidratada, Acianótica, Anictérica e Afebril ao toque
 - Cardiovascular: Bulhas rítimicas normofonéticas em 2 tempos, sem sopros. Pulsos cheios e simétricos. TEC <3s
@@ -74,5 +71,6 @@ Conduta:
 - Prescrevo sintomáticos e oriento medidas comportamentais para manejo dos sintomas
 - Oriento sinais de alarme como persistencia de sintomas ou piora do quadro, perda de peso, sangramento e retorno ao pronto atendimento imediatamente se manifestar algum deles.
 - Oriento buscar seguimento clínico ambulatorial para manejo dos sintomas e morbidades associadas.
+- Paciente compreende e concorda com conduta
 - Alta do Pronto Atendimento
 ```
